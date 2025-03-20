@@ -104,5 +104,3 @@ O que você deve fazer ao entrar no projeto pela primeira vez:
 
 > python manage.py test app_MJ
 
-<h3> 🔗 Para acessar o site: <h3>
-https://luanacardoso.pythonanywhere.com/
