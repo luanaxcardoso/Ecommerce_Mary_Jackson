@@ -1,1 +1,0 @@
-web: gunicorn projeto_ecommerce.wsgi --log-file -
