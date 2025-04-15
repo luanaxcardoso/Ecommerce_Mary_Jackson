@@ -1,8 +1,14 @@
-<h2 style="text-align: center;">Bootcamp Python & Django - 🦋 WoMakers Code 🦋</h2>
+## 🌱 Mary Jackson - E-commerce Vegano
 
-### 💻 E-commerce Mary Jackson
+### O projeto foi realizado pela Squad Mary Jackson:
 
-Este é o projeto final do Bootcamp de Back-End que tem por objetivo consolidar e aplicar o conhecimento adquirido Python e o Framework Django.
+### Projeto final do Bootcamp de Python & Django - 🦋 WoMakers Code 🦋
+
++ Livre de exploração animal  
++ Embalagens ecológicas  
++ Parceria com pequenos produtores  
++ Produtos veganos e sustentáveis
+  
 
 #### Linguagens e Ferramentas utilizadas:
 
@@ -14,7 +20,6 @@ Este é o projeto final do Bootcamp de Back-End que tem por objetivo consolidar 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius:4px"/>
 </div>
 
-## O projeto foi realizado pela Squad Mary Jackson:
 
 ### 📄 Estrutura e Requisitos
 
