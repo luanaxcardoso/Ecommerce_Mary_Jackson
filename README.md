@@ -40,6 +40,8 @@
 - **Sistema de Autenticação**: Criar um sistema de autenticação de usuários, permitindo que os clientes se registrem, façam login e gerenciem suas contas.
 - **Gestão de Pedidos**: Permitir que os clientes façam pedidos e possam visualizar detalhes do pedido.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 #### 4. Administração do Django
 
 - **Interface de Administração**: Utilizar a interface de administração do Django para gerenciar produtos, categorias, pedidos e clientes.
@@ -49,10 +51,6 @@
 - **Gerenciamento de Categorias**: Permitir que os administradores adicionem, editem e removam categorias de produtos.
 - **Gerenciamento de Estoque**: Permitir que os administradores visualizem e gerenciem o estoque dos produtos.
 
-
-#### 5. Deploy
-
-- O projeto foi publicado utilizando o **PythonAnywhere**.
 
 ### 💻 Como Rodar o Projeto na Sua Máquina
 
